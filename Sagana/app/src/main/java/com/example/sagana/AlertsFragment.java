@@ -57,6 +57,7 @@ public class AlertsFragment extends Fragment {
         setupRecentAlerts(view);
     }
 
+    // aiz was here!!
     @Override
     public void onStart() {
         super.onStart();
