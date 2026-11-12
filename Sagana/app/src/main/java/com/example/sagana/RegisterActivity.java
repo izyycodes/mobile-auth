@@ -302,7 +302,7 @@ public class RegisterActivity extends AppCompatActivity {
         label.setVisibility(View.VISIBLE);
     }
 
-    /** Saves implementing the two TextWatcher methods this screen doesn't use. */
+
     private abstract static class SimpleTextWatcher implements TextWatcher {
         @Override
         public void beforeTextChanged(CharSequence s, int start, int count, int after) {
