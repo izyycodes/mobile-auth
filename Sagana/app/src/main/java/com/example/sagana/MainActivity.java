@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
             finish();
         }
     }
-//test
+ //test 2
     private void showComingSoon() {
         Toast.makeText(this, R.string.toast_coming_soon, Toast.LENGTH_SHORT).show();
     }
